@@ -1,10 +1,3 @@
-
-
-/*===========================
-      01.COMMON css 
-===========================*/
-
-
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Poppins:300,400,500,600,700&display=swap');
 
  body {
@@ -107,12 +100,6 @@ p {
     height: 100%;
 }
 
-// others common css here
-
-
-
-/*===== All Button Style =====*/
-
 .main-btn {
 	display: inline-block;
 	font-weight: 500;
@@ -180,10 +167,6 @@ p {
     }
 }
 
-
-
-/*===== All Section Title Style =====*/
-
 .section-title{
     & .title{
         font-size: 35px;
@@ -201,26 +184,17 @@ p {
     }
 }
 
-
-/*===== All Slick Slide Outline Style =====*/
-
 .slick-slide {
     outline: 0;
 }
 
-
-
-/*===== All Preloader Style =====*/
-
 .preloader{
-    /* Body Overlay */
     position: fixed;
     top: 0;
     left: 0;
     display:  table;
     height: 100%;
     width:  100%;
-    /* Change Background Color */
     background: $white;
     z-index: 99999;
     
@@ -282,7 +256,6 @@ p {
             width: 200%;
             height: 100%;
             border-style: solid;
-            /* Spinner Color */
             border-color: $theme-color $theme-color $border-color;
             border-radius: 50%;
             border-width: 6px;
@@ -307,8 +280,6 @@ p {
         }
     }
 }
-
-/* Preloader Animations */
 
 @-webkit-keyframes ytp-spinner-linspin {
     to {
@@ -423,24 +394,3 @@ p {
         @include transform(rotate(-130deg));
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
