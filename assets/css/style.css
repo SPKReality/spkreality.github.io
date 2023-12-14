@@ -1043,17 +1043,17 @@ p {
   .single-services.services-color-1 .services-content .services-title a:hover {
     color: #7F00FF; }
   .single-services.services-color-2 .services-icon {
-    background-color: #E54F4F; }
+    background-color: #7F00FF; }
     .single-services.services-color-2 .services-icon::before {
       background-color: rgba(229, 79, 79, 0.2); }
   .single-services.services-color-2 .services-content .services-title a:hover {
-    color: #E54F4F; }
+    color: #7F00FF; }
   .single-services.services-color-3 .services-icon {
-    background-color: #8950E4; }
+    background-color: #7F00FF; }
     .single-services.services-color-3 .services-icon::before {
       background-color: rgba(137, 80, 228, 0.2); }
   .single-services.services-color-3 .services-content .services-title a:hover {
-    color: #8950E4; }
+    color: #7F00FF; }
   .single-services.services-color-4 .services-icon {
     background-color: #7F00FF; }
     .single-services.services-color-4 .services-icon::before {
@@ -1186,9 +1186,9 @@ p {
   .single-features.features-color-1 .features-icon {
     background-color: #7F00FF; }
   .single-features.features-color-2 .features-icon {
-    background-color: #8950E4; }
+    background-color: #7F00FF; }
   .single-features.features-color-3 .features-icon {
-    background-color: #FDB11B; }
+    background-color: #7F00FF; }
   .single-features:hover {
     -webkit-box-shadow: 0px 15px 17px 0px rgba(154, 154, 154, 0.16);
     -moz-box-shadow: 0px 15px 17px 0px rgba(154, 154, 154, 0.16);
