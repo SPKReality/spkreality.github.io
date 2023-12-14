@@ -1039,7 +1039,7 @@ p {
   .single-services.services-color-1 .services-icon {
     background-color: #7F00FF; }
     .single-services.services-color-1 .services-icon::before {
-      background-color: rgba(127, 0, 255, 0.2); }
+      background-color: rgba(127, 0, 255, 1.0); }
   .single-services.services-color-1 .services-content .services-title a:hover {
     color: #7F00FF; }
   .single-services.services-color-2 .services-icon {
