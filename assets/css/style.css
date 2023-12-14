@@ -1186,9 +1186,9 @@ p {
   .single-features.features-color-1 .features-icon {
     background-color: #7F00FF; }
   .single-features.features-color-2 .features-icon {
-    background-color: #7F00FF; }
+    background-color: #8950E4; }
   .single-features.features-color-3 .features-icon {
-    background-color: #7F00FF; }
+    background-color: #FDB11B; }
   .single-features:hover {
     -webkit-box-shadow: 0px 15px 17px 0px rgba(154, 154, 154, 0.16);
     -moz-box-shadow: 0px 15px 17px 0px rgba(154, 154, 154, 0.16);
@@ -1216,7 +1216,7 @@ p {
   .features-image .features-shape-1 {
     width: 185px;
     height: 185px;
-    background-color: #7F00FF;
+    background-color: #FEB21C;
     border-radius: 50%;
     position: absolute;
     top: -60px;
